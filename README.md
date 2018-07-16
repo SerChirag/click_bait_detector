@@ -13,7 +13,8 @@ I extracted the data from : https://github.com/bhargaviparanjape/clickbait/tree/
 
 ## Models :
 
- 1. Naive Bayes : 81% accuracy. 
+ 1. Naive Bayes : 81% accuracy for 3000 features.
+ 2. Naive Bayes : 91% accuracy for 5000 features.
  
 
 ## Scope : 
